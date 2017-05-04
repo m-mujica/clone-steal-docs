@@ -1,0 +1,26 @@
+{
+  "name": "clone-steal-docs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mujica/clone-steal-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mujica/clone-steal-docs/issues"
+  },
+  "homepage": "https://github.com/m-mujica/clone-steal-docs#readme"
+}
